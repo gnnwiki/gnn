@@ -1,5 +1,5 @@
-> hexo 搭建个人博客
+> GNN WorkShop
 
-# Blog
 
-Lei Tao Blog : [www.leitao.top](http://www.leitao.top/)
+
+Blog : [www.gnn.wiki](http://www.gnn.wiki/)
