@@ -1,0 +1,13 @@
+
+# Code Highlight theme
+# Available value:
+#    normal | night | night yilia | night eighties | night blue | night bright
+# https://github.com/chriskempson/tomorrow-theme
+# night yilia - https://github.com/litten/hexo-theme-yilia
+highlight_theme: night eighties
+local_search:
+	enable: true
+  trigger: auto
+  top_n_per_article: 1
+
+mathjax: true
